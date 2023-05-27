@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+blockquote{
+	padding: 15px;
+	max-width:600px;
+	background-color: #f8fffe;
+	font-weight: bold;
+	border-left: 8px solid green;
+}
+h3,input{
+	margin-left:40px;
+}
+
+
